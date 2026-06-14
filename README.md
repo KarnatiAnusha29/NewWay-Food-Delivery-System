@@ -93,14 +93,14 @@ java -cp ".;mysql-connector-j-8.0.33.jar;out" ui.MainFrame
 
 ## Screenshots
 
-Add screenshots of the following screens:
+### Login Page
+![Login Page](login_page.png)
 
-* Login Page
-* User Dashboard
-* Admin Dashboard
-* Order Management
-* Delivery Prediction Interface
+### User Dashboard
+![User Dashboard](user_dashboard.png)
 
+### Admin Dashboard
+![Admin Dashboard](admin_dashboard.png)
 ---
 
 ## Future Enhancements
